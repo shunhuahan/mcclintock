@@ -43,7 +43,6 @@ def main():
             "-o", out_dir, 
             "--keep_files",
             "-p", sample_name,
-            "--af",
             "-f"
     ]
 
